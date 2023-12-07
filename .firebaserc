@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "notepad-cfd10": {
+      "hosting": {
+        "DAKeep": [
+          "notepad-cfd10"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "notepad-cfd10"
+  }
+}
